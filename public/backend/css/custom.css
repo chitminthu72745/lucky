@@ -1,0 +1,27 @@
+.app-page-title {
+    padding: 15px !important;
+}
+.page-title-icon {
+    margin: 0px 20px 0px 0px !important;
+    font-size: 30px !important;
+}
+.fixed-sidebar .app-main .app-main__outer {
+    width: 100% !important;
+}
+.form-inline label[for="preparation-disable"] {
+    width: 230px;
+}
+.form-inline label {
+    width: 150px;
+    justify-content: start !important;
+    align-items: flex-start !important;
+}
+.products input[type="text"],
+.products input[type="number"],
+.products input[type="date"],
+.products textarea {
+    width: 250px !important;
+}
+.products select {
+    width: 250px !important;
+}
